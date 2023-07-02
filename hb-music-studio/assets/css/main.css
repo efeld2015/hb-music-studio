@@ -1768,6 +1768,9 @@ ul.icons > li:first-child:before {
 
 /* Form */
 
+.form-text {
+  color: white;
+}
 form label {
   font-weight: 600;
   text-transform: uppercase;
@@ -1979,8 +1982,8 @@ button.alt:active,
 
 .pageBottom {
   background: #3aa1aa;
-}
 
+}
 
 /* Header */
 
