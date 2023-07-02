@@ -1770,11 +1770,11 @@ ul.icons > li:first-child:before {
 
 .form-text {
   color: white;
+  text-align: center;
 }
 form label {
   font-weight: 600;
   text-transform: uppercase;
-  color: #888;
   display: block;
   margin: 0 0 1em 0;
 }
@@ -1982,6 +1982,7 @@ button.alt:active,
 
 .pageBottom {
   background: #3aa1aa;
+  
 
 }
 
