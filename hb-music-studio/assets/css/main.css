@@ -239,7 +239,7 @@ h3 {
   letter-spacing: 2px;
   line-height: 40px;
   width: 80%;
-  /*margin: 0 0 1.25em 0;*/
+  margin: 0 0 1.25em 0;
   font-weight: bold;
 }
 
@@ -254,6 +254,9 @@ h3 {
   color: #ed786a;
 }
 
+.compLink:hover {
+  color:#ed786a;
+}
 a {
   -moz-transition: color 0.25s ease-in-out,
     border-bottom-color 0.25s ease-in-out;
