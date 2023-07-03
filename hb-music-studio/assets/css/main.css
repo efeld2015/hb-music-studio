@@ -1612,6 +1612,7 @@ article:last-child {
 .image img {
   display: block;
   width: 100%;
+  
 }
 
 .image.fit {
@@ -1623,6 +1624,7 @@ article:last-child {
   display: block;
   width: 100%;
   margin: 0 0 3.5em 0;
+ 
 }
 
 .image.left {
