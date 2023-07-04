@@ -79,25 +79,6 @@
               /></span>-->
               <!-- Dropdown menu for voicing options -->
               <!-- Maybe just turn this into anchor tags and buttons instead of a dropdown -->
-<select>
-  <option value="starter" selected>Choose voicing</option>
-  <option value="Unison">Unison</option>
-  <option value="Two-Part">Two-Part</option>
-  <option value="SATB">SATB</option>
-</select><!--<h3>And yeah, that's basically it</h3>-->
-
-<script src="main.js">
-  //initialize + declare variables
-let selection = document.querySelector('select');
-let result = document.querySelector('h2');
-let photo = document.querySelector('img')
-
-selection.addEventListener('change', (event) => {
-    result.innerText = selection.options[selection.selectedIndex].value;
-    
-    console.log(selection.selectedIndex)
-})
-</script>
 
 
 
