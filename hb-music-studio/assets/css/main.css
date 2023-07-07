@@ -2865,8 +2865,8 @@ font-family: 'Raleway';
   
 }
 
-.coming-soon {
-  margin-left: 230px;
+.pod-header h2 {
+  text-align: center;
 }
 
 .pod {
