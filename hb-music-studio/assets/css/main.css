@@ -2869,6 +2869,18 @@ font-family: 'Raleway';
   text-align: center;
 }
 
-.pod {
-  color: #f58c3b;
+/* How to center an image with Flexbox and make it responsive */
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+.box img {
+display: block;
+width: 100%;
+max-width: 500px; /*actual img width */
+height: auto; /* maintain aspect ratio */
+margin: auto; /* optional centering of img */
+}
+
