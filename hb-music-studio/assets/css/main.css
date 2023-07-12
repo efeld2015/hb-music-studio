@@ -2892,7 +2892,9 @@ display: flex;
 justify-content: center;
 }
 
-.button {
+.lessons-btn, .studio-container, .policies-btn {
   margin-top: 30px;
   margin-left: 425px;
+  text-align: center;
 }
+
