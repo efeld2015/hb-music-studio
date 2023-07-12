@@ -2884,3 +2884,15 @@ height: auto; /* maintain aspect ratio */
 margin: auto; /* optional centering of img */
 }
 /* end of Flexbox img */
+
+/* VOICE LESSONS PAGE */
+
+.lil-header, .pic {
+display: flex;
+justify-content: center;
+}
+
+.button {
+  margin-top: 30px;
+  margin-left: 425px;
+}
