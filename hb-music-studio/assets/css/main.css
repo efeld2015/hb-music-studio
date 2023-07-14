@@ -2310,11 +2310,14 @@ button.alt:active,
 */
 /* Footer */
 
+.zhuzh {
+ 
+}
 #footer {
   position: relative;
   overflow: hidden;
   border-top: solid 2px #e5e5e5;
-  background: #f0f0f0;
+  background:#f0f0f0;
   padding: 6em 0 8em 0;
 }
 
