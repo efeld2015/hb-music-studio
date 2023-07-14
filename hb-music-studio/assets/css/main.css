@@ -2895,9 +2895,12 @@ display: flex;
 justify-content: center;
 }
 
-.lessons-btn, .studio-container, .policies-btn {
+.lessons-btn, .studio-container, .current-student-btn, .policies-btn {
   margin-top: 30px;
   margin-left: 425px;
   text-align: center;
 }
 
+.current-student-btn {
+  background: #3aa1aa;
+}
