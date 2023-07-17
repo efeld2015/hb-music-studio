@@ -12,3 +12,8 @@ Optimizations I want to add in the future
 - A shopping cart/checkout feature so users can buy HB's compositions directly from the site
 - A way to pay for voice lessons directly on the site
 
+# Try it out! (coming soon)
+
+# Credits
+All copy was written by HB, owner/operator of HB Music Studios
+
