@@ -8,7 +8,7 @@ Challenges I Navigated
   
 - This project has strengthened my Flexbox skills immensely. Positioning the cards on the Compositions page was the trickiest, because I wanted an even number of cards per row, and also wanted it to be responsive. This project also forced me to ask myself constantly, "Do I really need another div here?", and oftentimes I used semantic HTML instead.
 
-Optimizations I want to add in the future
+# Optimizations 
 - A shopping cart/checkout feature so users can buy HB's compositions directly from the site
 - A way to pay for voice lessons directly on the site
 
