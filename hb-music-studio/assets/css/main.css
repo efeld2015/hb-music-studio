@@ -1959,7 +1959,7 @@ button.alt:active,
 
 /* Box */
 
-.no-sidebar .box.post > header {
+.no-sidebar.box .post > header {
   text-align: center;
 }
 
@@ -2835,7 +2835,9 @@ button.alt:active,
   }
 
 }
-.card {
+
+/* COMPOSITION CARD STUFF */
+/*.card {
   display: inline-block;
   font-family: 'Cormorant Garamond';
   box-shadow: 0 4px 8px rgba(0,0,0,0.4);
@@ -2867,6 +2869,7 @@ font-family: 'Raleway';
   color: white;
   
 }
+*/
 
 .pod-header h2 {
   text-align: center;
