@@ -12,7 +12,9 @@ Optimizations I want to add in the future
 - A shopping cart/checkout feature so users can buy HB's compositions directly from the site
 - A way to pay for voice lessons directly on the site
 
-# Try it out! (coming soon)
+# Try it out! 
+- On the homepage, learn about HB, and scroll down to see if they are accepting new voice students, view some featured compositions, and more about the TWQ podcast.
+- Contact forms are at the bottom of every page. Just write your message and click "submit"!
 
 # Credits
 All copy was written by HB, owner/operator of HB Music Studios
