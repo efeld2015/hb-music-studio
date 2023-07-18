@@ -2837,7 +2837,7 @@ button.alt:active,
 }
 
 /* COMPOSITION CARD STUFF */
-/*.card {
+.card {
   display: inline-block;
   font-family: 'Cormorant Garamond';
   box-shadow: 0 4px 8px rgba(0,0,0,0.4);
@@ -2847,7 +2847,6 @@ button.alt:active,
   margin: 20px;
   text-align: center;
 }
-
 
 .category, .title {
 font-family: 'Raleway';
@@ -2869,7 +2868,7 @@ font-family: 'Raleway';
   color: white;
   
 }
-*/
+
 
 .pod-header h2 {
   text-align: center;
