@@ -2905,3 +2905,14 @@ justify-content: center;
 .current-student-btn {
   background: #3aa1aa;
 }
+
+.pod-container {
+/*outline: 2px solid pink;*/
+margin-left: 290px;
+text-align: center;
+}
+
+.mini-pod-box {
+  display: flex;
+  justify-content: center;
+}
