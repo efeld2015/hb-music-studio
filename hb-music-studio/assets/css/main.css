@@ -2871,6 +2871,9 @@ font-family: 'Raleway';
   
 }
 
+.comp-header {
+  text-align: center;
+}
 
 .pod-header h2 {
   text-align: center;
