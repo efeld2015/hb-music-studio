@@ -2853,7 +2853,10 @@ font-family: 'Raleway';
 }
 
 .recBuy {
-  padding: 10px 5px 10px 5px;
+  /*padding: 10px 5px 10px 5px;*/
+  padding-top: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
   background: #3aa1aa;
   font-family: 'Raleway';
   font-weight: bold;
