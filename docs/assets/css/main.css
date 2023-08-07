@@ -372,6 +372,7 @@ br.clear {
   flex-wrap: wrap;
   box-sizing: border-box;
   align-items: stretch;
+  /*margin: 39.6px;*/
 }
 
 .row > * {
@@ -1985,8 +1986,10 @@ button.alt:active,
   
 }
 
+/* Change the margin */
 .pageBottom {
   background: #3aa1aa;
+  margin: 39.6px;
 }
 /* Header */
 
