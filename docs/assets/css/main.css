@@ -233,6 +233,7 @@ h2 {
   letter-spacing: 4px;
   margin: 0 0 1.5em 0;
   line-height: 1.75em;
+  
 }
 
 h3 {
@@ -1988,8 +1989,12 @@ button.alt:active,
 
 /* Change the margin */
 .pageBottom {
-  background: #3aa1aa;
+ background: #3aa1aa;
   margin: 39.6px;
+}
+
+.pageBottom h2 {
+  background:#f0f0f0;
 }
 /* Header */
 
