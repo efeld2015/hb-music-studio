@@ -1991,6 +1991,7 @@ button.alt:active,
 .pageBottom {
  background: #3aa1aa;
   margin: 39.6px;
+  border-radius: 8px;
 }
 
 .pageBottom h2 {
