@@ -2863,6 +2863,14 @@ font-family: 'Raleway';
   text-align: center;
 }
 
+/*.rec-buy {
+  padding: 15px 8px 8px 8px;
+  background: #3aa1aa;
+  font-family: 'Raleway';
+  font-weight: bold;
+  border-radius: 12px;
+}*/
+
 .rec-buy {
   padding: 15px 8px 8px 8px;
   background: #3aa1aa;
@@ -2870,7 +2878,6 @@ font-family: 'Raleway';
   font-weight: bold;
   border-radius: 12px;
 }
-
 .rec-buy:hover {
   background: #f58c3b;
 }
