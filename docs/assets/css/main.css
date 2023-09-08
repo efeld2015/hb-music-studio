@@ -2858,22 +2858,20 @@ button.alt:active,
 
 
 
-.category, .title {
+.info {
 font-family: 'Raleway';
   text-align: center;
 }
 
-.recBuy {
-  /*padding: 10px 5px 10px 5px;*/
-  padding-top: 12px;
-  padding-left: 12px;
-  padding-right: 12px;
+.rec-buy {
+  padding: 15px 8px 8px 8px;
   background: #3aa1aa;
   font-family: 'Raleway';
   font-weight: bold;
+  border-radius: 12px;
 }
 
-.recBuy:hover {
+.rec-buy:hover {
   background: #f58c3b;
 }
 .material-symbols-outlined {
