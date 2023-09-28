@@ -256,6 +256,12 @@ h3 {
   color: #ed786a;
 }
 
+.question-box {
+  display: inline;
+  text-align: center;
+  justify-content: center;
+}
+
 .compLink:hover {
   color:#ed786a;
 }
