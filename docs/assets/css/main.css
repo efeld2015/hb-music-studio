@@ -2225,13 +2225,13 @@ button.alt:active,
   box-shadow: inset 0px -8px 0px 0px #fff, inset 0px 8px 0px 0px #fff;
   position: relative;
   text-transform: uppercase;
-  background: url("../../images/banner.jpg");
+  background: url("../hb-music-studio/images/pic04.jpg");
   background-size: cover;
   padding: 10em 0;
 }
 
 #banner p {
-  font-weight: 400;
+  font-weight: 800;
   font-size: 2em;
   line-height: 1.5em;
   letter-spacing: 4px;
@@ -2299,24 +2299,6 @@ button.alt:active,
   padding: 0;
 }
 
-/* Sidebar */
-
-/*#sidebar > section,
-#sidebar > article {
-  border-top: solid 2px #e5e5e5;
-  box-shadow: inset 0px 8px 0px 0px #fff, inset 0px 10px 0px 0px #e5e5e5;
-  margin: 5em 0 0 0;
-  padding: 5em 0 0 0;
-}
-
-#sidebar > section:first-child,
-#sidebar > article:first-child {
-  border-top: 0;
-  box-shadow: none;
-  margin: 0;
-  padding: 0;
-}
-*/
 /* Footer */
 
 
@@ -2845,8 +2827,15 @@ button.alt:active,
 
 /* COMPOSITION CARD STUFF */
 
+/*.row {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}*/
+
 .card {
-  display: inline-block;
   font-family: 'Cormorant Garamond';
   box-shadow: 0 4px 8px rgba(0,0,0,0.4);
   width: 250px;
@@ -2857,19 +2846,10 @@ button.alt:active,
 }
 
 
-
 .info {
 font-family: 'Raleway';
   text-align: center;
 }
-
-/*.rec-buy {
-  padding: 15px 8px 8px 8px;
-  background: #3aa1aa;
-  font-family: 'Raleway';
-  font-weight: bold;
-  border-radius: 12px;
-}*/
 
 .rec-buy {
   padding: 15px 8px 8px 8px;
@@ -2939,3 +2919,4 @@ text-align: center;
   justify-content: center;
  
 }
+
