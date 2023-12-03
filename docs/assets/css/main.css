@@ -249,11 +249,11 @@ h3 {
   color: rgb(136, 136, 136);
   font-weight: bold;
   text-decoration: underline;
-  text-decoration-color: #ed786a;
+  text-decoration-color: #F17300;
 }
 
 .podLink:hover {
-  color: #ed786a;
+  color: #F17300;
 }
 
 .question-box {
@@ -263,7 +263,7 @@ h3 {
 }
 
 .compLink:hover {
-  color:#ed786a;
+  color:#F17300;
 }
 a {
   -moz-transition: color 0.25s ease-in-out,
@@ -286,7 +286,7 @@ a strong {
 }
 
 a:hover strong {
-  color: #ed786a;
+  color: #F17300;
 }
 
 strong,
@@ -1899,7 +1899,7 @@ button,
   -webkit-appearance: none;
   position: relative;
   display: inline-block;
-  background: #f58c3b;
+  background: #F17300;
   color: #fff !important;
   text-transform: uppercase;
   border-radius: 4px;
@@ -1938,7 +1938,7 @@ input[type="submit"]:active,
 input[type="reset"]:active,
 button:active,
 .button:active {
-  background: #ed786a;
+  background: #F17300;
 }
 
 input[type="button"].alt,
@@ -1995,7 +1995,7 @@ button.alt:active,
 
 /* Change the margin */
 .pageBottom {
- background: #3aa1aa;
+ background: #2CA6A4;
   margin: 39.6px;
   border-radius: 8px;
 }
@@ -2008,7 +2008,7 @@ button.alt:active,
 #header {
   position: relative;
   position: relative;
-  background: #3aa1aa;
+  background: #2CA6A4;
   text-align: center;
 }
 
@@ -2026,7 +2026,7 @@ button.alt:active,
   font-size: 3em;
   letter-spacing: 13px;
   text-decoration: underline;
-  text-decoration-color: #f58c3b;
+  text-decoration-color: #F17300;
 }
 
 #header h1 a {
@@ -2107,13 +2107,13 @@ button.alt:active,
 
 #nav > ul > li.active > a:before,
 #nav > ul > li:hover > a:before {
-  background: #f58c3b;
+  background: #F17300;
   color: #fff;
 }
 
 #nav > ul > li.active > a > span,
 #nav > ul > li:hover > a > span {
-  color: #f58c3b;
+  color: #F17300;
 }
 
 .dropotron {
@@ -2194,10 +2194,11 @@ button.alt:active,
   display: flex;
 }
 
-.topColumn {
+.imgColumn {
   flex: 22.22%;
  
 }
+
 #features {
   position: relative;
   overflow: hidden;
@@ -2672,7 +2673,7 @@ button.alt:active,
   h3,
   h4,
   h5,
-  h6 {
+  h6, .imgColumn,.topColumn {
     font-size: 1.2em;
     letter-spacing: 2px;
     text-align: center;
@@ -2858,7 +2859,7 @@ font-family: 'Raleway';
 
 .rec-buy {
   padding: 15px 8px 8px 8px;
-  background: #3aa1aa;
+  background: #2CA6A4;
   font-family: 'Raleway';
   font-weight: bold;
   border-radius: 12px;
@@ -2910,7 +2911,7 @@ justify-content: center;
 }
 
 .current-student-btn {
-  background: #3aa1aa;
+  background: #2CA6A4;
 }
 
 .pod-container {
