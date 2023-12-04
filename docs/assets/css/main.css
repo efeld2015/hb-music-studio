@@ -2232,7 +2232,7 @@ button.alt:active,
   box-shadow: inset 0px -8px 0px 0px #fff, inset 0px 8px 0px 0px #fff;
   position: relative;
   text-transform: uppercase;
-  background: url("../hb-music-studio/images/pic04.jpg");
+  background: #2CA6A4;
   background-size: cover;
   padding: 10em 0;
 }
@@ -2571,7 +2571,7 @@ button.alt:active,
     top: 0;
     width: 275px;
     z-index: 10002;
-    background: #444;
+    background: #2CA6A4;
     border-right: solid 2px #3c3c3c;
     font-weight: 400;
     text-transform: uppercase;
@@ -2865,7 +2865,7 @@ font-family: 'Raleway';
   border-radius: 12px;
 }
 .rec-buy:hover {
-  background: #f58c3b;
+  background: #F17300;
 }
 .material-symbols-outlined {
   font-weight: bold;
@@ -2915,10 +2915,16 @@ justify-content: center;
 }
 
 .pod-container {
+  margin-left: 290px;
+}
+@media only screen and (max-width: 600px) {
+.pod-container {
 /*outline: 2px solid pink;*/
-margin-left: 290px;
+margin-left: 0px;
 text-align: center;
 }
+}
+
 
 .mini-pod-box {
   display: flex;
